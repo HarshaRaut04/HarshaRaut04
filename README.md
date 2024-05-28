@@ -24,7 +24,7 @@ My curiosity and eagerness to learn drive me to explore new horizons and seize o
 	<a href="https://github.com/HarshaRaut04" target="_blank">
 		<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
 	</a>
-	<a href="[https://www.linkedin.com/in/Harsha-Raut](https://www.linkedin.com/in/harsha-raut-62baaa165/)/" target="_blank">
+	<a href="https://www.linkedin.com/in/harsha-raut-62baaa165/" target="_blank">
 		<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 	</a>
 	<a href="https://twitter.com/" target="_blank">
