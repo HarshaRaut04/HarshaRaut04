@@ -6,7 +6,7 @@
 
 Hello, I'm **Harsha Raut**, a Bachelor’s degree holder in Computer Science & Engineering with a strong passion for technology and web development. My expertise spans across Middleware Platforms such as Nginx, Weblogic, Tomcat, Apache HTTPD, OHS, RabbitMQ, JBoss, WildFly, and HAProxy. I thrive on combining my enthusiasm for technology with my software development skills to create innovative products.
 
-My curiosity and eagerness to learn drive me to explore new horizons and seize opportunities that come my way. I am dedicated to helping students enhance their development and programming skills. Currently, I've pursed a BE in Computer Science & Engineering from Amravati University.
+My curiosity and eagerness to learn drive me to explore new horizons and seize opportunities that come my way. I am dedicated to helping students enhance their development and programming skills. 
 
 ### About Me 🚀
 
